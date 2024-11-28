@@ -1,0 +1,14 @@
+.navbar-list{
+    li {
+        a {
+            border-bottom: 2px solid white;  
+        }
+
+        &:hover {         
+            a {
+                color: black !important;
+            }
+        }
+    }
+}
+
